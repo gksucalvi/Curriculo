@@ -1,4 +1,9 @@
 
 header {
-    font-size: 5%;
+    font-size: 10px;
+
+}
+
+header h1 {
+    color:#12E6C7
 }
