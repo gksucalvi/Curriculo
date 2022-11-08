@@ -7,3 +7,7 @@ header {
 header h1 {
     color:#12E6C7
 }
+
+.subtitulo {
+    text-transform: uppercase;
+}
